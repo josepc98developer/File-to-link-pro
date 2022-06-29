@@ -1,6 +1,6 @@
 <h1 align="center">TG Direct Link Generator</h3>
 <p align="center">
-  <a href="https://github.com/TechShreyash/TG-Direct-Link-Generator">
+  <a href="https://github.com/josepc98developer/File-to-link-pro">
     <img src="https://socialify.git.ci/TechShreyash/TG-Direct-Link-Generator/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt="TG-Direct-Link-Generator" width="640" height="320" />
   </a>
   <p align="center">
