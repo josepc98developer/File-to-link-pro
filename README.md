@@ -61,7 +61,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to fast deploy to Heroku
 
-- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/josepc98developer/File-to-link-pro)
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/josepc98developer/File-to-link-pro.git)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
