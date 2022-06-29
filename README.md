@@ -41,7 +41,7 @@
 ## About This Bot
 
 <p align="center">
-    <a herf="https://github.com/TechShreyash/TG-Direct-Link-Generator">
+    <a herf="https://github.com/josepc98developer/File-to-link-pro">
         <img src="https://telegra.ph/file/4d124400b985b2fe6ee1c.jpg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -61,7 +61,7 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to fast deploy to Heroku
 
-- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Th3-Wizard/file-to-links-pro)
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/josepc98developer/File-to-link-pro)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
